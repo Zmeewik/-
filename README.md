@@ -1,4 +1,4 @@
-<img width="1280" height="898" alt="image" src="https://github.com/user-attachments/assets/9d0a9d05-7816-4df2-b6a1-346bf80a61ba" />## 🏆 Game Hackathons
+## 🏆 Game Hackathons
 
 Участвовал в двух игровых хакатонах по разработке 3D-игр на Unity.
 
